@@ -6,12 +6,14 @@ This project explores the data from the 2024 Brazil Grand Prix, focusing on tele
 
 ## Key Features
 
-### 1. Mini-Sector Performance Map
-The mini-sector map showcases the fastest driver per track segment between Max Verstappen (VER) and Lando Norris (NOR). Each mini-sector is color-coded based on the driver who achieved the highest speed, providing insights into how car setups and driving styles played a role across the circuit. For example:
-- Verstappen consistently dominated straights, indicating superior top-end speed.
-- Norris excelled in certain technical corners, showcasing McLaren’s agility in tight sections.
+### 1. Position Changes Over the Race
+This visualization tracks the position of every driver across all laps, painting a clear picture of the race's dynamics. Key takeaways include:
+- **Verstappen’s Climb:** A dramatic rise from 17th to 1st demonstrates the sheer pace and strategic brilliance of Red Bull.
+- **Key Battles:** Moments where driver lines converge highlight on-track battles, such as Verstappen overtaking Norris and other key drivers.
+- **Strategic Decisions:** Drops in position, often linked to pit stops, reflect the strategic calls made by teams during the race.
 
-![Mini-Sector Performance Map](race_minisec.png)
+![Position Changes](race_pos_data.png)
+
 
 ---
 
@@ -25,13 +27,12 @@ This plot tracks the lap times of Max Verstappen (VER) and Lando Norris (NOR) th
 
 ---
 
-### 3. Position Changes Over the Race
-This visualization tracks the position of every driver across all laps, painting a clear picture of the race's dynamics. Key takeaways include:
-- **Verstappen’s Climb:** A dramatic rise from 17th to 1st demonstrates the sheer pace and strategic brilliance of Red Bull.
-- **Key Battles:** Moments where driver lines converge highlight on-track battles, such as Verstappen overtaking Norris and other key drivers.
-- **Strategic Decisions:** Drops in position, often linked to pit stops, reflect the strategic calls made by teams during the race.
+### 3. Mini-Sector Performance Map
+The mini-sector map showcases the fastest driver per track segment between Max Verstappen (VER) and Lando Norris (NOR). Each mini-sector is color-coded based on the driver who achieved the highest speed, providing insights into how car setups and driving styles played a role across the circuit. For example:
+- Verstappen consistently dominated straights, indicating superior top-end speed.
+- Norris excelled in certain technical corners, showcasing McLaren’s agility in tight sections.
 
-![Position Changes](race_pos_data.png)
+![Mini-Sector Performance Map](race_minisec.png)
 
 ---
 
